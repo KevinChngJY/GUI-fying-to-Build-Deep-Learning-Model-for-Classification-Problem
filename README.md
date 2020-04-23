@@ -1,9 +1,10 @@
 <h1> GUI-fying to Build Deep Learning Model for Classification Problem</h1>
+Build Detection and Diagnosis Tools of Covid-19 on Chest Radiographs. Everything is in GUI.<br>
 
-Build Detection and Diagnosis Tools of Covid-19 on Chest Radiographs. Everything is in GUI.
-Author
+<h3>Author</h3>
 Kevin Chng
-Overview
+<br>
+<h3>Overview</h3>
 This example provides the workflow how to build deep learning model using GUI applications in MATLAB. I was inspired from a MathWork's blog posted by Johanna Pingel (Link : Covid-19 Medical image Detection). It describes how to build detection and diagnosis tools of COVID-19 radiography image, it offers a valueble second opinion to the doctors and assit them in the screening process. This type of mechanism would also assist in providing results to the doctors quickly. 
 In my example, we are fying through the GUI to build a deep learning (DL) model to detect COVID-19 on Chest Radiography using MATLAB.
 Dataset
