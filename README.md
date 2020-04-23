@@ -19,4 +19,6 @@ In my example, we are fying through the GUI to build a deep learning (DL) model 
 <h3>Product Focus</h3>
 MATLAB (R2020a)<br>
 Deep Learning Toolbox (R2020a)<br>
-If you are using MATLAB version R2019a/R2019b, you may consider to use transfer learning app (Community App)
+If you are using MATLAB version R2019a/R2019b, you may consider to use transfer learning app (Community App)<br>
+<h3>Workflow</h3>
+![](https://github.com/KevinChngJY/GUI-fying-to-Build-Deep-Learning-Model-for-Classification-Problem/blob/master/workflow.png)
